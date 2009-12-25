@@ -1,0 +1,13 @@
+﻿Architects focus is on the boundaries and interfaces
+
+Since Lord Nelson destroyed the French and Spanish fleet at Trafalgar in 1805, "divide an conquer" has been the mantra for dealing with complex and difficult problems. A more familiar term with the same intent is separation of concern.  From separation of concern we get encapsulation, and from encapsulation we get boundaries and interfaces.
+
+From an architect's point of view, the hard part is to find the natural places to locate boundaries and define the appropriate interfaces needed to build a working system. This is especially difficult in large enterprise systems, often characterized by few natural boundaries and inter-tangled domains. In this situation old wisdom such as: Minimize coupling, maximize cohesion, and Do not slice through regions where high rates of information exchange are required provide some guidance, but they say nothing about how to communicate the problems and potential solutions to stakeholders in a easy way.
+
+Here the concept of bounded-contexts and context mapping, as described by Eric Evans in his book Domain-Driven Design,comes to the rescue. A bounded context is an area where a model or concept is uniquely defined, and we represent it as a cloud or bubble with a descriptive name that define its role and responsibility in the domain at hand. As an example, a shipping system might include contexts such as: Cargo Operation, Cargo Scheduling and Harbor Movement. In other domains other names will be appropriate.
+
+With the bounded contexts identified and drawn up on the white-board, it's time to start to draw the relationships between the contexts. These relationships might address organizational, functional or technical dependencies. The result from this exercise is a context map, a collection of bounded-contexts and the interfaces between them.
+
+Such a context map provides architects with a powerful tool that allows them to focus on what belongs together and what should be kept apart, enabling them to divide and conquer wisely in a communicative way. The technique can easily be used to document and analyze the as-is situation, and from there guide re-design toward a better system characterized by low coupling, high cohesion and well defined interfaces.
+
+By Einar Landre
