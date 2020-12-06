@@ -5,7 +5,7 @@ The database is where all of the data, both input by your employees and data col
 User interfaces, business and application logic, and even employees will come and go, but your data lasts forever.
 Consequently, enough cannot be said about the importance of building a solid data model from Day One.
 
-The exuberance over agile techniques have left many thinking that it’s fine, or even preferable, to design applications as you go.
+The exuberance over agile techniques have left many thinking that it's fine, or even preferable, to design applications as you go.
 Gone are the days of writing complex, comprehensive technical designs up front!
 The new school says deploy early and often.
 A line of code in production is better than ten in your head.
@@ -17,11 +17,11 @@ Migrating data from one schema to another in situ is difficult at best, time con
 While you can suffer bugs temporarily at the application layer, bugs in the database can be disastrous.
 Finding and fixing a data layer design problem does not restore your data once it has been corrupted.
 
-A solid data model is one that guarantees security of today’s data, but also extensible for tomorrow’s.
+A solid data model is one that guarantees security of today's data, but also extensible for tomorrow's.
 Guaranteeing security means being impervious to bugs that will – despite your best efforts – be pervasive in an ever-changing application layer.
 It means enforcing referential integrity.
 It means building in domain constraints wherever they are known.
-It means choosing appropriate keys that help you ensure your data’s referential integrity and constraint satisfaction.
+It means choosing appropriate keys that help you ensure your data's referential integrity and constraint satisfaction.
 Being extensible for tomorrow means properly normalizing your data so that you can easily add architectural layers upon your data model later.
 It means not taking shortcuts.
 

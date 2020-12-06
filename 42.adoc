@@ -17,7 +17,7 @@ Enterprise Architecture Patterns define the framework for the high-level archite
 Some of the more common architecture patterns include Event Driven Architecture (EDA), Service Oriented Architecture (SOA), Resource Oriented Architecture (ROA), and Pipeline Architecture.
 
 Application Architecture Patterns specify how applications or subsystems within the scope of a larger enterprise architecture should be designed.
-Some common pattern catalogs in this category include the well-known J2EE design patterns (e.g., Session Façade and Transfer Object) and the application architecture patterns described in Martin Fowler’s book "Patterns of Enterprise Application Architecture".
+Some common pattern catalogs in this category include the well-known J2EE design patterns (e.g., Session Façade and Transfer Object) and the application architecture patterns described in Martin Fowler's book "Patterns of Enterprise Application Architecture".
 
 Integration Patterns are important for designing and communicating concepts surrounding the sharing of information and functionality between components, applications, and subsystems.
 Some examples of Integration Patterns include file sharing, remote procedure calls, and numerous messaging patterns.

@@ -8,7 +8,7 @@ Unfortunately, there are those who labor under the misapprehension that proving 
 Showmanship, the act of appealing to your audience, is important in marketing, but it's counter productive to leading a software development project.
 Architects must win the respect of their team by providing solid leadership and by truly understanding the technical and business domain in which they are expected to operate.
 
-Stewardship, taking responsibility and care of another’s property, is the appropriate role of an architect.
+Stewardship, taking responsibility and care of another's property, is the appropriate role of an architect.
 An architect must act in the best interests of their customer and not pander to the needs of their own ego.
 
 Software architecture is about serving the needs of one's customers, typically through direction from those with domain expertise that surpasses one's own.

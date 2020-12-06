@@ -11,7 +11,7 @@ So where should the software industry go and look for improving their practices?
 
 Lets take a look at the car industry.
 When planning a new model, the first thing is to choose a concept or archetype.
-It’s primarily an architectural positioning mechanism.
+It's primarily an architectural positioning mechanism.
 BMW X6 is an example of a new concept that combines the properties of a SUV and a Coupe into what BMW calls a Sports Activity Coupe.
 The thing is that before you can purchase a new X6, BMW has invested thousands of hours and millions of dollars in both its vehicle and manufacturing design.
 When BMW receives your order, one of their assembly lines will kick in and produce your customized version of the X6.

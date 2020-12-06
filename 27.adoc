@@ -1,8 +1,8 @@
 = There is no 'I' in architecture
 :author: Dave Quick
 
-I know, there really is an ‘i’ in architecture.
-But it's not a capital ‘I’, calling attention to itself, dominating discussion.
+I know, there really is an 'i' in architecture.
+But it's not a capital 'I', calling attention to itself, dominating discussion.
 The lower-case character fits neatly within the word.
 Its there only because it fulfills requirements for proper spelling and pronunciation.
 
@@ -15,15 +15,15 @@ Who hasn't experienced architects who:
 * Get defensive when their ideas are challenged or ignore the ideas of others.
 
 I suspect any experienced architect has fallen into at least one of these traps at some point.
-I’ve fallen into all of them and learned painful lessons from my mistakes.
+I've fallen into all of them and learned painful lessons from my mistakes.
 
 Why does this happen?
 
-* We’ve had success – Success and experience build self-confidence and allow us to become architects.
+* We've had success – Success and experience build self-confidence and allow us to become architects.
   Success leads to bigger projects.
   There is a fine line between self-confidence and arrogance.
   At some point the project is bigger than our personal ability.
-  Arrogance sneaks in when we cross that line but don’t know it yet.
+  Arrogance sneaks in when we cross that line but don't know it yet.
 * People respect us – Tough design questions provide a critical safety net.
   Our own defensiveness, arrogance, or emphasis on our experience can result in missed design questions.
 * We're human – Architects pour themselves into each design.
@@ -35,23 +35,24 @@ Why does this happen?
 
 How do we avoid it?
 
-* Requirements don’t lie - With correct, complete requirements, any architecture that meets them is a good one.
+* Requirements don't lie - With correct, complete requirements, any architecture that meets them is a good one.
   Work closely with the customer to make sure you both understand the business value each requirement provides.
-  You don’t drive the architecture, the requirements do.
+  You don't drive the architecture, the requirements do.
   You do your best to serve their needs.
 * Focus on the team – These are not just resources; they are your design collaborators and your safety net.
   People who feel unappreciated usually make a poor safety net.
-  It’s the teams’ architecture, not yours alone.
+  It's the teams' architecture, not yours alone.
   You provide guidance but everyone does the heavy lifting together.
   You need their help as much or more than they need yours.
 * Check your work – The model is not the architecture.
   It is only your understanding of how the architecture should work.
-  Work with your team to identify tests that demonstrate how the project’s architecture supports each requirement.
+  Work with your team to identify tests that demonstrate how the project's architecture supports each requirement.
 * Watch yourself – Most of us fight our natural tendencies to defend our work, focus on our selfish interests, and see ourselves as the smartest person in the room.
   Pressure pushes these tendencies to the surface.
   Consider your interactions for a few minutes every day.
-  Did you give everyone’s ideas the respect and acknowledgement they deserved? Did you react negatively to well meaning input?
+  Did you give everyone's ideas the respect and acknowledgement they deserved?
+  Did you react negatively to well meaning input?
   Do you really understand why someone disagreed with your approach?
 
-Removing the ‘I’ from architecture doesn’t guarantee success.
-It just removes a common source of failure that’s entirely your fault.
+Removing the 'I' from architecture doesn't guarantee success.
+It just removes a common source of failure that's entirely your fault.
