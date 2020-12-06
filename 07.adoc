@@ -1,16 +1,25 @@
-﻿Stand Up!
+= ﻿Stand Up!
+:author: Udi Dahan
 
-As architects, many of us have grown from highly technical positions where our success was derived mainly from our ability to talk to machines. However, in the role of architect much of our communication is now done with our fellow human beings. Whether it's talking to developers about the benefits of employing a specific pattern, or explaining to management the cost-benefit tradeoffs of buying middleware, communication is core to our success.
+As architects, many of us have grown from highly technical positions where our success was derived mainly from our ability to talk to machines.
+However, in the role of architect much of our communication is now done with our fellow human beings. Whether it's talking to developers about the benefits of employing a specific pattern, or explaining to management the cost-benefit tradeoffs of buying middleware, communication is core to our success.
 
-Although it's difficult to measure an architect's impact on a project, if developers consistently ignore their guidance and management doesn't buy-in to their recommendations, the "rightness" of their guidance will do little to advance their career. Experienced architects understand that they need to "sell" their ideas and need to communicate effectively in order to do that.
+Although it's difficult to measure an architect's impact on a project, if developers consistently ignore their guidance and management doesn't buy-in to their recommendations, the "rightness" of their guidance will do little to advance their career.
+Experienced architects understand that they need to "sell" their ideas and need to communicate effectively in order to do that.
 
-Many books have been written on the topic of inter-personal communication, but I wanted to call out one simple, practical, easy-to-employ tip that will drastically increase the effectiveness of your communication, and, consequently, your success as an architect.  If you’re in any situation where you’re talking to more than one person about your guidance, stand up.  Whether it’s a formal design review, or an informal discussion over some diagrams, it doesn’t matter. Stand up, especially if everyone else is sitting down.
+Many books have been written on the topic of inter-personal communication, but I wanted to call out one simple, practical, easy-to-employ tip that will drastically increase the effectiveness of your communication, and, consequently, your success as an architect.
+If you’re in any situation where you’re talking to more than one person about your guidance, stand up.
+Whether it’s a formal design review, or an informal discussion over some diagrams, it doesn’t matter.
+Stand up, especially if everyone else is sitting down.
 
-Standing up automatically communicates authority and self-confidence. You command the room. People will interrupt you less. All that is going to make a big difference to whether or not your recommendations will be adopted.
+Standing up automatically communicates authority and self-confidence. You command the room.
+People will interrupt you less.
+All that is going to make a big difference to whether or not your recommendations will be adopted.
 
-You’ll also notice that once you stand, you’ll start making more use of your hands and other body language. When speaking to groups of 10 or more people, standing up will also help you can make eye contact with everybody. Eye contact, body language, and other visual elements account for a large portion of communication. Standing up also tends to change your tone of voice, volume, pitch, and speed: projecting your voice to larger rooms; slowing down to make more important points. These vocal elements contribute substantially to the effectiveness of communication.
+You’ll also notice that once you stand, you’ll start making more use of your hands and other body language.
+When speaking to groups of 10 or more people, standing up will also help you can make eye contact with everybody.
+Eye contact, body language, and other visual elements account for a large portion of communication.
+Standing up also tends to change your tone of voice, volume, pitch, and speed: projecting your voice to larger rooms; slowing down to make more important points.
+These vocal elements contribute substantially to the effectiveness of communication.
 
 The easiest way to more than double your effectiveness when communicating ideas is quite simply to stand up.
-
-
-By Udi Dahan
