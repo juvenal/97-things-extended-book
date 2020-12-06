@@ -1,0 +1,5 @@
+= 97-things-extended-book
+
+A collection of short-takes on software architecture.
+Reformatted to asciidoc for easier reading and more consistent structure.
+Each article should render natively.
