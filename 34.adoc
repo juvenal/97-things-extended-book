@@ -1,13 +1,20 @@
-﻿Value stewardship over showmanship
+= ﻿Value stewardship over showmanship
+:author: Barry Hawkins
 
-When an architect enters a project, there is an understandable desire to prove one's worth. Being assigned the role of software architect typically indicates implicit trust on the part of the company in architect's technical leadership, and it only follows that the architect would desire to make good on that expectation as soon as possible. Unfortunately, there are those who labor under the misapprehension that proving one's worth consists of showmanship; bedazzling if not baffling the team with one's technical brilliance.
+When an architect enters a project, there is an understandable desire to prove one's worth.
+Being assigned the role of software architect typically indicates implicit trust on the part of the company in architect's technical leadership, and it only follows that the architect would desire to make good on that expectation as soon as possible.
+Unfortunately, there are those who labor under the misapprehension that proving one's worth consists of showmanship; bedazzling if not baffling the team with one's technical brilliance.
 
-Showmanship, the act of appealing to your audience, is important in marketing, but it's counter productive to leading a software development project.  Architects must win the respect of their team by providing solid leadership and by truly understanding the technical and business domain in which they are expected to operate.
+Showmanship, the act of appealing to your audience, is important in marketing, but it's counter productive to leading a software development project.
+Architects must win the respect of their team by providing solid leadership and by truly understanding the technical and business domain in which they are expected to operate.
 
-Stewardship, taking responsibility and care of another’s property, is the appropriate role of an architect.  An architect must act in the best interests of their customer and not pander to the needs of their own ego.
+Stewardship, taking responsibility and care of another’s property, is the appropriate role of an architect.
+An architect must act in the best interests of their customer and not pander to the needs of their own ego.
 
-Software architecture is about serving the needs of one's customers, typically through direction from those with domain expertise that surpasses one's own. Pursuing successful software development will lead one to create solutions of compromise, balancing the cost and complexity of implementation against the time and effort available to a project. That time and effort are the resources of the company, which the software architect must steward without self-serving undercurrents. Unduly complex systems that sport the latest hot framework or technology buzzword seldom do so without some sacrifice at the company's expense. Much like an investment broker, the architect is being allowed to play with their client's money, based on the premise that their activity will yield an acceptable return on investment.
+Software architecture is about serving the needs of one's customers, typically through direction from those with domain expertise that surpasses one's own.
+Pursuing successful software development will lead one to create solutions of compromise, balancing the cost and complexity of implementation against the time and effort available to a project.
+That time and effort are the resources of the company, which the software architect must steward without self-serving undercurrents.
+Unduly complex systems that sport the latest hot framework or technology buzzword seldom do so without some sacrifice at the company's expense.
+Much like an investment broker, the architect is being allowed to play with their client's money, based on the premise that their activity will yield an acceptable return on investment.
 
 Value stewardship over showmanship; never forget that you are playing with other peoples' money.
-
-By Barry Hawkins

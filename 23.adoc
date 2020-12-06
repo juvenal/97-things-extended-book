@@ -1,15 +1,36 @@
-﻿Database as a Fortress
+= ﻿Database as a Fortress
+:author: Dan Chak
 
-The database is where all of the data, both input by your employees and data collected from your customers, resides. User interfaces, business and application logic, and even employees will come and go, but your data lasts forever. Consequently, enough cannot be said about the importance of building a solid data model from Day One.
+The database is where all of the data, both input by your employees and data collected from your customers, resides.
+User interfaces, business and application logic, and even employees will come and go, but your data lasts forever.
+Consequently, enough cannot be said about the importance of building a solid data model from Day One.
 
-The exuberance over agile techniques have left many thinking that it’s fine, or even preferable, to design applications as you go. Gone are the days of writing complex, comprehensive technical designs up front! The new school says deploy early and often. A line of code in production is better than ten in your head. It seems almost too good to be true, and where your data is concerned, it is.
+The exuberance over agile techniques have left many thinking that it’s fine, or even preferable, to design applications as you go.
+Gone are the days of writing complex, comprehensive technical designs up front!
+The new school says deploy early and often.
+A line of code in production is better than ten in your head.
+It seems almost too good to be true, and where your data is concerned, it is.
 
-While business rules and user interfaces do evolve rapidly, the structures and relationships within the data you collect often do not. Therefore, it is critical to have your data model defined right from the start, both structurally and analytically. Migrating data from one schema to another in situ is difficult at best, time consuming always, and error prone often. While you can suffer bugs temporarily at the application layer, bugs in the database can be disastrous. Finding and fixing a data layer design problem does not restore your data once it has been corrupted.
+While business rules and user interfaces do evolve rapidly, the structures and relationships within the data you collect often do not.
+Therefore, it is critical to have your data model defined right from the start, both structurally and analytically.
+Migrating data from one schema to another in situ is difficult at best, time consuming always, and error prone often.
+While you can suffer bugs temporarily at the application layer, bugs in the database can be disastrous.
+Finding and fixing a data layer design problem does not restore your data once it has been corrupted.
 
-A solid data model is one that guarantees security of today’s data, but also extensible for tomorrow’s. Guaranteeing security means being impervious to bugs that will – despite your best efforts – be pervasive in an ever-changing application layer. It means enforcing referential integrity. It means building in domain constraints wherever they are known. It means choosing appropriate keys that help you ensure your data’s referential integrity and constraint satisfaction. Being extensible for tomorrow means properly normalizing your data so that you can easily add architectural layers upon your data model later. It means not taking shortcuts.
+A solid data model is one that guarantees security of today’s data, but also extensible for tomorrow’s.
+Guaranteeing security means being impervious to bugs that will – despite your best efforts – be pervasive in an ever-changing application layer.
+It means enforcing referential integrity.
+It means building in domain constraints wherever they are known.
+It means choosing appropriate keys that help you ensure your data’s referential integrity and constraint satisfaction.
+Being extensible for tomorrow means properly normalizing your data so that you can easily add architectural layers upon your data model later.
+It means not taking shortcuts.
 
-The database is the final gatekeeper of your precious data. The application layer which is, by design ephemeral, cannot be its own watchdog. For the database to keep proper guard, the data model must be designed to reject data that does not belong, and to prevent relationships that do not make sense. Keys, foreign key relationships, and domain constraints, when described in a schema, are succinct, easy to understand and verify, and are ultimately self-documenting. Domain rules encoded the data model are also physical and persistent; a change to application logic does not wash them away.
+The database is the final gatekeeper of your precious data.
+The application layer which is, by design ephemeral, cannot be its own watchdog.
+For the database to keep proper guard, the data model must be designed to reject data that does not belong, and to prevent relationships that do not make sense.
+Keys, foreign key relationships, and domain constraints, when described in a schema, are succinct, easy to understand and verify, and are ultimately self-documenting.
+Domain rules encoded the data model are also physical and persistent; a change to application logic does not wash them away.
 
-To get the most out of a relational database – to make it a true part of the application as opposed to simply a storehouse for application data – you need to have a solid understanding of what you are building from the start. As your product evolves, so too will the data layer, but at each phase of its evolution, it should always maintain its status as Fortress. If you trust it and bestow upon it the heavy responsibility of trapping bugs from other layers of your application, you will never be disappointed.
-
-By Dan Chak
+To get the most out of a relational database – to make it a true part of the application as opposed to simply a storehouse for application data – you need to have a solid understanding of what you are building from the start.
+As your product evolves, so too will the data layer, but at each phase of its evolution, it should always maintain its status as Fortress.
+If you trust it and bestow upon it the heavy responsibility of trapping bugs from other layers of your application, you will never be disappointed.

@@ -1,22 +1,42 @@
-﻿Scope is the enemy of success
+= Scope is the enemy of success
+:author: Dave Quick
 
-Scope refers to a project's size. How much time, effort, and resources? What functionality at what level of quality? How difficult to deliver? How much risk? What constraints exist? The answers define a project's scope. Software architects love the challenge of big, complicated projects. The potential rewards can even tempt people to artificially expand a project’s scope to increase its apparent importance. Expanding scope is the enemy of success because the probability of failure grows faster than expected. Doubling a project’s scope often increases its probability of failure by an order of magnitude.
+Scope refers to a project's size.
+How much time, effort, and resources? What functionality at what level of quality? How difficult to deliver? How much risk? What constraints exist? The answers define a project's scope.
+Software architects love the challenge of big, complicated projects.
+The potential rewards can even tempt people to artificially expand a project’s scope to increase its apparent importance.
+Expanding scope is the enemy of success because the probability of failure grows faster than expected.
+Doubling a project’s scope often increases its probability of failure by an order of magnitude.
 
-Why does it work this way? Consider some examples:
-    * Intuition tells us to double our time or resources to do twice as much work. History[1] says impacts are not as linear as intuition suggests. For example, a four person team will expend more than twice the communication effort as a team of two.
-    * Estimation is far from an exact science. Who hasn’t seen features that were much harder to implement than expected? 
+Why does it work this way?
+Consider some examples:
+* Intuition tells us to double our time or resources to do twice as much work
+  History footnote:[See "The Mythical Man-Month" by Fred Brooks] says impacts are not as linear as intuition suggests.
+  For example, a four person team will expend more than twice the communication effort as a team of two.
+* Estimation is far from an exact science.
+  Who hasn’t seen features that were much harder to implement than expected?
 
-Of course, some projects aren’t worth doing without some built-in size and complexity. While a text editor without the ability to enter text might be easy to build, it wouldn’t be a text editor. So, what strategies can help to reduce or manage scope in real-world projects?
-    * Understand the real needs – The capabilities a project must deliver are a set of requirements. Requirements define functionality or qualities of functionality. Question any requirements not explained in terms of measurable value to the customer. If it has no effect on the company’s bottom line, why is it a requirement?
-    * Divide and conquer – Look for opportunities to divide up the work into smaller independent chunks. It is easier to manage several small independent projects than one large project with interdependent parts.
-    * Prioritize – The world of business changes rapidly. Large projects’ requirements change many times before they’re completed. Important requirements usually remain important as the business changes while others change or even evaporate. Prioritization lets you deliver the most important requirements first.
-    * Deliver results as soon as possible – Few people know what they want before they have it. A famous cartoon shows the evolution of a project to build a child’s swing based on what the customer said and what various roles in the project understood. The complicated result only faintly resembles a swing. The last panel, titled “What would have worked”, shows a simple swing using an old tire. When the customer has something to try, the solution may be simpler than expected. Building the most important things first gets you the most important feedback early, when you need it most. 
+Of course, some projects aren’t worth doing without some built-in size and complexity.
+While a text editor without the ability to enter text might be easy to build, it wouldn’t be a text editor.
+So, what strategies can help to reduce or manage scope in real-world projects?
+* Understand the real needs – The capabilities a project must deliver are a set of requirements.
+  Requirements define functionality or qualities of functionality.
+  Question any requirements not explained in terms of measurable value to the customer.
+  If it has no effect on the company’s bottom line, why is it a requirement?
+* Divide and conquer – Look for opportunities to divide up the work into smaller independent chunks.
+  It is easier to manage several small independent projects than one large project with interdependent parts.
+* Prioritize – The world of business changes rapidly.
+  Large projects’ requirements change many times before they’re completed.
+  Important requirements usually remain important as the business changes while others change or even evaporate.
+  Prioritization lets you deliver the most important requirements first.
+* Deliver results as soon as possible – Few people know what they want before they have it.
+  A famous cartoon shows the evolution of a project to build a child’s swing based on what the customer said and what various roles in the project understood.
+  The complicated result only faintly resembles a swing.
+  The last panel, titled "What would have worked", shows a simple swing using an old tire.
+  When the customer has something to try, the solution may be simpler than expected.
+  Building the most important things first gets you the most important feedback early, when you need it most.
 
-Agile advocates[2] exhort us to build "The simplest thing that could possibly work". Complex architectures fail far more often than simpler architectures. Reducing project scope often results in a simpler architecture. Scope reduction is one of the most effective strategies an architect can apply to improve the odds of success.
-
-By Dave Quick
-
-[1] See "The Mythical Man-Month" by Fred Brooks
-[2] See "eXtreme Programming eXplained" by Kent Beck
-
- 
+Agile advocates footnote:[See "eXtreme Programming eXplained" by Kent Beck] exhort us to build "The simplest thing that could possibly work".
+Complex architectures fail far more often than simpler architectures.
+Reducing project scope often results in a simpler architecture.
+Scope reduction is one of the most effective strategies an architect can apply to improve the odds of success.

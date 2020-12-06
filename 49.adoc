@@ -1,13 +1,32 @@
-﻿Janus the Architect
+= ﻿Janus the Architect
+:author: Dave Bartlett
 
-In the Roman world, Janus was the God of beginnings and endings; doors and passageways.  Janus is usually depicted with two heads facing in different directions, a symbol you may have seen on coins or from the movies.  Janus represents transitions and changes in life from past to future, young to old, marriage, births and coming of age.
+In the Roman world, Janus was the God of beginnings and endings; doors and passageways.
+Janus is usually depicted with two heads facing in different directions, a symbol you may have seen on coins or from the movies.
+ Janus represents transitions and changes in life from past to future, young to old, marriage, births and coming of age.
 
-For any architect software or structural, Janus ability to see forward and backward or past to future is a highly regarded skill.  An architect strives to merge realities with vision; past success with future direction; business and management expectations with development constraints.  Creating these bridges is a major part of being an architect.  Often an architect may feel they are trying to span chasms while bringing a project to completion because of different forces acting on a project.  For example, ease of access vs. security or satisfying present business processes while designing for management’s future vision.  A good architect must have those two heads capable of carrying two different ideas or thoughts, different goals or visions to create a product that will satisfy the various project stakeholders.
+For any architect software or structural, Janus ability to see forward and backward or past to future is a highly regarded skill.
+An architect strives to merge realities with vision; past success with future direction; business and management expectations with development constraints.
+Creating these bridges is a major part of being an architect.
+Often an architect may feel they are trying to span chasms while bringing a project to completion because of different forces acting on a project.
+For example, ease of access vs. security or satisfying present business processes while designing for management’s future vision.
+A good architect must have those two heads capable of carrying two different ideas or thoughts, different goals or visions to create a product that will satisfy the various project stakeholders.
 
-You should notice that Janus has two heads not simply two faces.  This allows Janus to have the extra ears and eyes needed for awareness.  An excellent IT architect will be a superior listener and evaluator.    Understanding the reason for a capital expenditure is crucial to determining the goals and vision a management team has for the future of their organization.  Being able to evaluate the technical skills of your staff with the design and technology to be used within the project will aid in creating the proper training and programming pairs to ensure a successful project.  Knowing what open source solutions to use in combination with common off-the-shelf software can greatly streamline a project’s timelines and budgets. An excellent architect will be aware of many of these disparate pieces of the development process and use them to be successful in the project lifecycle.
+You should notice that Janus has two heads not simply two faces.
+This allows Janus to have the extra ears and eyes needed for awareness.
+An excellent IT architect will be a superior listener and evaluator.
+Understanding the reason for a capital expenditure is crucial to determining the goals and vision a management team has for the future of their organization.
+Being able to evaluate the technical skills of your staff with the design and technology to be used within the project will aid in creating the proper training and programming pairs to ensure a successful project.
+Knowing what open source solutions to use in combination with common off-the-shelf software can greatly streamline a project’s timelines and budgets.
+n excellent architect will be aware of many of these disparate pieces of the development process and use them to be successful in the project lifecycle.
 
-There are managers who demand and expect God like qualities from their architects but that is not the purpose of this comparison.  A good architect is open to new ideas, tools and designs that progress the project, team or profession; she doesn’t want to spend most of her time in management meetings or doing all the coding; he should concede to good ideas and cultivate an atmosphere for ideas to grow.  It is an open mind that will succeed as an architect; a mind that can balance the many conflicting forces at work on projects.  All architects strive to complete their projects and ensure the success of their development teams.  The best architects create systems that stand the test of time because these systems are able to be maintained and expanded into the future as the organization grows and technology changes.  These architects have listened, evaluated and refactored their processes, designs and methods to ensure the success of their work and projects; they have endeavored to ensure their products will withstand the transitions and changes that are sure to come.
+There are managers who demand and expect God like qualities from their architects but that is not the purpose of this comparison.
+A good architect is open to new ideas, tools and designs that progress the project, team or profession; she doesn’t want to spend most of her time in management meetings or doing all the coding; he should concede to good ideas and cultivate an atmosphere for ideas to grow.
+It is an open mind that will succeed as an architect; a mind that can balance the many conflicting forces at work on projects.
+All architects strive to complete their projects and ensure the success of their development teams.
+The best architects create systems that stand the test of time because these systems are able to be maintained and expanded into the future as the organization grows and technology changes.
+These architects have listened, evaluated and refactored their processes, designs and methods to ensure the success of their work and projects; they have endeavored to ensure their products will withstand the transitions and changes that are sure to come.
 
-This is the mindset we should strive for as architects.  It is simple yet difficult to perform. Like Janus, a software architect needs to be a keeper of doors and passageways, spanning the old and the new, incorporating creativity with sound engineering to fulfill todays requirements while planning to meet tomorrow's expectations.
-
-By Dave Bartlett
+This is the mindset we should strive for as architects.
+It is simple yet difficult to perform.
+Like Janus, a software architect needs to be a keeper of doors and passageways, spanning the old and the new, incorporating creativity with sound engineering to fulfill todays requirements while planning to meet tomorrow's expectations.
