@@ -1,4 +1,4 @@
-﻿= Communication is King; Clarity and Leadership its humble servants
+= Communication is King; Clarity and Leadership its humble servants
 :author: Mark Richards
 
 All too often software architects sit in their ivory towers, dictating specifications, technology decisions, and technology direction to the developers below.

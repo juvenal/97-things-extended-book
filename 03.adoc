@@ -1,4 +1,4 @@
-﻿= Chances are your biggest problem isn't technical
+= Chances are your biggest problem isn't technical
 :author: Mark Ramm
 
 Right now someone's running a failing project to build a payroll system.

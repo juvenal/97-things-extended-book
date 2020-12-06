@@ -1,4 +1,4 @@
-﻿= Architecting is about balancing
+= Architecting is about balancing
 :author: Randy Stafford
 
 Balance stakeholders' interests with technical requirements

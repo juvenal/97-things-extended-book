@@ -1,4 +1,4 @@
-﻿= Don't put your resume ahead of the requirements
+= Don't put your resume ahead of the requirements
 :author: Nitin Borwankar
 
 As engineers we sometimes recommend technologies, methodologies and approaches for solving problems because deep down we want to have these on our resume and not because they are the best solution for the problem.
