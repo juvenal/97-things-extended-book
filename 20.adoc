@@ -1,13 +1,23 @@
-﻿Continuously Integrate
+= ﻿Continuously Integrate
+:author: Dave Bartlett
 
-The build as a "big bang" event in project development is dead. The architect, whether an application or enterprise architect, should promote and encourage the use of continuous integration methods and tools for every project.
+The build as a "big bang" event in project development is dead.
+The architect, whether an application or enterprise architect, should promote and encourage the use of continuous integration methods and tools for every project.
 
-The term Continuous Integration (CI) was first coined by Martin Fowler in a design pattern. CI refers to a set practices and tools that ensure automatic builds and testing of an application at frequent intervals, usually on an integration server specifically configured for these tasks. The convergence of unit testing practices and tools in conjunction with automated build tools makes CI a must for any software project today.
+The term Continuous Integration (CI) was first coined by Martin Fowler in a design pattern.
+CI refers to a set practices and tools that ensure automatic builds and testing of an application at frequent intervals, usually on an integration server specifically configured for these tasks.
+The convergence of unit testing practices and tools in conjunction with automated build tools makes CI a must for any software project today.
 
-Continuous Integration targets a universal characteristic of the software development process – the integration point between source code and running application. At this integration point the many pieces of the development effort come together and are tested. You have probably heard the phrase “build early and often”, which was a risk reduction technique to ensure there were no surprises at this point in development. “Build early and often” has now been replaced by CI which includes the build but also adds features that improve communication and coordination within the development team.
+Continuous Integration targets a universal characteristic of the software development process – the integration point between source code and running application.
+At this integration point the many pieces of the development effort come together and are tested.
+You have probably heard the phrase "build early and often", which was a risk reduction technique to ensure there were no surprises at this point in development.
+"Build early and often" has now been replaced by CI which includes the build but also adds features that improve communication and coordination within the development team.
 
-The most prominent part of a CI implementation is the build which is usually automated. You have the ability to do a manual build but they can also be kicked off nightly or can be triggered by source code changes. Once the build is started the latest version of the source code is pulled from the repository and the CI tools attempts to build the project then test it. Lastly, notification is sent out detailing the results of the build process. These notifications can be sent in various forms including email or instant messages.
+The most prominent part of a CI implementation is the build which is usually automated.
+You have the ability to do a manual build but they can also be kicked off nightly or can be triggered by source code changes.
+Once the build is started the latest version of the source code is pulled from the repository and the CI tools attempts to build the project then test it.
+Lastly, notification is sent out detailing the results of the build process.
+These notifications can be sent in various forms including email or instant messages.
 
-Continuous Integration will provide a more stable and directed development effort. As an architect you will love it but more importantly your organization and your development teams will be more effective and efficient.
-
-By Dave Bartlett
+Continuous Integration will provide a more stable and directed development effort.
+As an architect you will love it but more importantly your organization and your development teams will be more effective and efficient.
