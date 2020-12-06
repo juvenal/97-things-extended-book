@@ -7,7 +7,7 @@ This kind of failure is avoidable, but it can require major effort on the part o
 Adjusting the time line or increasing resources on a project are not normally of concern. Problems start when you are asked to do more in the same time line or when the schedule is shortened without reducing the workload.
 
 The idea that schedules can be shortened in order to reduce cost or speed up delivery is a very common misconception.
-You’ll commonly see attempts to require overtime or sacrifice “less important scheduled tasks” (like unit-testing) as a way to reduce delivery dates or increase functionality while keeping the delivery dates as is.
+You’ll commonly see attempts to require overtime or sacrifice "less important scheduled tasks" (like unit-testing) as a way to reduce delivery dates or increase functionality while keeping the delivery dates as is.
 Avoid this scenario at all costs.
 Remind those requesting the changes of the following facts:
 

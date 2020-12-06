@@ -9,7 +9,7 @@ The Architect must understand the desired ROI, and by implication, the limits of
 ROI should serve as a major piece of objective context in the give-and-take conversations with the business about the value of a feature versus the cost of delivering that feature, and with the development team about technical design and implementation.
 For example, the Architect must be careful to represent the interests of the business to the development team by not agreeing to choose technology that has unacceptably costly licensing and support cost implications when the software is deployed into testing or production.
 
-Part of the challenge of letting the business “drive” is providing enough quality information about the ongoing software development effort back into the business to support good business decision making.
+Part of the challenge of letting the business "drive" is providing enough quality information about the ongoing software development effort back into the business to support good business decision making.
 That’s where transparency becomes crucial.
 The Architect, in conjunction with development management, must create and nurture the means for regular, ongoing information feedback loops.
 This can be accomplished by a variety of lean software development techniques, such as big visible charts, continuous integration, and frequent releases of working software to the business starting early in the project.

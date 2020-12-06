@@ -17,13 +17,13 @@ Enterprise Architecture Patterns define the framework for the high-level archite
 Some of the more common architecture patterns include Event Driven Architecture (EDA), Service Oriented Architecture (SOA), Resource Oriented Architecture (ROA), and Pipeline Architecture.
 
 Application Architecture Patterns specify how applications or subsystems within the scope of a larger enterprise architecture should be designed.
-Some common pattern catalogs in this category include the well-known J2EE design patterns (e.g., Session Façade and Transfer Object) and the application architecture patterns described in Martin Fowler’s book “Patterns of Enterprise Application Architecture”.
+Some common pattern catalogs in this category include the well-known J2EE design patterns (e.g., Session Façade and Transfer Object) and the application architecture patterns described in Martin Fowler’s book "Patterns of Enterprise Application Architecture".
 
 Integration Patterns are important for designing and communicating concepts surrounding the sharing of information and functionality between components, applications, and subsystems.
 Some examples of Integration Patterns include file sharing, remote procedure calls, and numerous messaging patterns.
 You can find these patterns at http://www.enterpriseintegrationpatterns.com/eaipatterns.html.
 
-Knowing the basic design patterns as described by the Gang of Four book “Design Patterns: Elements of Reusable Object-Oriented Software” is a must for any software architect.
+Knowing the basic design patterns as described by the Gang of Four book "Design Patterns: Elements of Reusable Object-Oriented Software" is a must for any software architect.
 Although these patterns may appear to be too low-level for a software architect, they are part of a standard vocabulary that makes for effective communication between architects and developers.
 
 It is also important to be aware of and understand the various anti-patterns as well.
@@ -33,4 +33,4 @@ Knowing these patterns will help you avoid the many pitfalls you will most likel
 You can find a list of the common anti-patterns at http://en.wikipedia.org/wiki/Anti-patterns.
 
 Software architects need the ability to effectively communicate with one another in a clear, concise, and effective way.
-The patterns are there; it is up to us as software architects to learn and understand these patterns so we can “walk the walk and talk the talk”.
+The patterns are there; it is up to us as software architects to learn and understand these patterns so we can "walk the walk and talk the talk".

@@ -21,7 +21,7 @@ The second process is the manufacturing of cars in line with customer specificat
 In many ways these are the processes we find in the software industry as well.
 The challenge is what we put into the terms.
 
-In the article “What is software design?” Jack Reeves suggested that the only artifact of software engineering that satisfied the criteria for a design document, as such document is understood and used in classical engineering, is the source code.
+In the article "What is software design?" Jack Reeves suggested that the only artifact of software engineering that satisfied the criteria for a design document, as such document is understood and used in classical engineering, is the source code.
 The manufacturing of the software is automated and taken care of by the compiler, build and test scripts.
 
 By accepting that carving out source code is an act of design, not an act of construction we are in a position to adopt useful management practices that are proven to work.

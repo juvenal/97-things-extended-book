@@ -6,14 +6,14 @@ Balance stakeholders' interests with technical requirements
 When we think of architecting software, we tend to think first of classical technical activities, like modularizing systems, defining interfaces, allocating responsibility, applying patterns, and optimizing performance.
 Architects also need to consider security, usability, supportability, release management, and deployment options, among others things.
 But these technical and procedural issues must be balanced with the needs of stakeholders and their interests.
-Taking a “stakeholders and interests” approach in requirements analysis is an excellent way to ensure completeness of requirements specifications for the software being developed.
+Taking a "stakeholders and interests" approach in requirements analysis is an excellent way to ensure completeness of requirements specifications for the software being developed.
 
 Analyzing the stakeholders, and their interests, in the process by which an organization develops software, and in the organization itself, reveals the ultimate set of priorities bearing on a software architect.
 Software architecting is about balancing this set of priorities, over the short and long term, in a way that is appropriate to the context at hand.
 
 Consider, for example, the engineering department of a software-as-a-service business.
 The business likely has certain priorities, such as meeting contractual obligations, generating revenue, ensuring customer referenceability, containing costs, and creating valuable technology assets.
-These business priorities may translate to departmental priorities like ensuring the functionality and correctness, and “quality attributes” (i.e. “-ilities”) of the software being developed, as well as ensuring the productivity of the development team, ensuring the sustainability and auditability of development operations, and the adaptability and longevity of the software products.
+These business priorities may translate to departmental priorities like ensuring the functionality and correctness, and "quality attributes" (i.e. "-ilities") of the software being developed, as well as ensuring the productivity of the development team, ensuring the sustainability and auditability of development operations, and the adaptability and longevity of the software products.
 
 It is the architect’s job to not only create functional, quality software for users, but also to do so while balancing the other departmental priorities, with the cost containment interests of the business’s CEO, with the ease-of-administration interests of the operations staff, with the ease-of-learning and ease-of-maintenance interests of future programming staff, and with best practices of the software architect’s profession.
 

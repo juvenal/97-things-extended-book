@@ -1,12 +1,12 @@
 = ﻿There is no one-size-fits-all solution
 :author: Randy Stafford
 
-Architects must continuously develop and exercise “contextual sense” – because there is no one-size-fits-all solution to problems which may be widely diverse.
+Architects must continuously develop and exercise "contextual sense" – because there is no one-size-fits-all solution to problems which may be widely diverse.
 
-The incisive phrase “contextual sense” was coined, and its meaning insightfully described, by Eberhardt Rechtin in his 1991 book Systems Architecting: Creating & Building Complex Systems:
+The incisive phrase "contextual sense" was coined, and its meaning insightfully described, by Eberhardt Rechtin in his 1991 book Systems Architecting: Creating & Building Complex Systems:
 
 [quote, Rechtin SysArch, (emphasis in the original)]
-[The central ideas of the ‘heuristic approach’ to architecting complex systems] come from asking skilled architects what they do when confronted with highly complex problems. The skilled architect and designer would most likely answer, ‘Just use common sense.’ … [A] better expression than ‘common sense’ is contextual sense – a knowledge of what is reasonable within a given context. Practicing architects through education, experience, and examples accumulate a considerable body of contextual sense by the time they’re entrusted with solving a system-level problem – typically 10 years.”
+[The central ideas of the ‘heuristic approach’ to architecting complex systems] come from asking skilled architects what they do when confronted with highly complex problems. The skilled architect and designer would most likely answer, ‘Just use common sense.’ … [A] better expression than ‘common sense’ is contextual sense – a knowledge of what is reasonable within a given context. Practicing architects through education, experience, and examples accumulate a considerable body of contextual sense by the time they’re entrusted with solving a system-level problem – typically 10 years."
 
 A big problem in the software industry, in my opinion, is that people are often responsible for solving problems requiring more contextual sense than they’ve accumulated.
 Perhaps this is because the software industry is barely two generations old and growing explosively; perhaps it will be a sign of maturity in the software industry when this problem no longer exists.
