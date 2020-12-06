@@ -1,8 +1,9 @@
-= 97 things every architect should know
+= 97 things every architect should know (Extended Entries)
 :doctype: book
 :toc:
 
-// Use ventilated prose (one sentence per line).
+// 1. Use ventilated prose (one sentence per line).
+// 2. One document per article.
 
 include::01.adoc[leveloffset=+1]
 

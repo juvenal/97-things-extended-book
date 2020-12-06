@@ -1,10 +1,10 @@
 
-book.pdf: book.adoc ??.adoc
-	asciidoctor-pdf book.adoc
+97-things-extended.pdf: composite.adoc ??.adoc
+	asciidoctor-pdf composite.adoc -o 97-things-extended.pdf
 
-all: book.pdf
+all: 97-things-extended.pdf
 
 clean:
-	rm -fv book.pdf
+	rm -fv 97-things-extended.pdf
 
 force: clean all
